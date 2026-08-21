@@ -327,7 +327,6 @@ Los seis proyectos buscan utilizar el desarrollo de videojuegos como una forma d
 Mi objetivo al desarrollar videojuegos es que cada proyecto tenga **alma, identidad y un propósito**, utilizando las mecánicas y la interacción para transmitir ideas que puedan relacionarse con problemas reales de la sociedad.
 
 ---
-
 <p align="center">
 
 ### 🎮 Crear · Programar · Contar historias · Generar impacto
