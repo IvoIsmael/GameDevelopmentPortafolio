@@ -121,7 +121,7 @@ Aunque el juego tiene una estructura de aventura, su mecánica principal está b
 
 <p align="center">
 
-<a href="./index.html">
+<a href="https://ivoismael.github.io/GameDevelopmentPortafolio/Zombie-Loop/">
   <strong>🎮 JUGAR ZOMBIE-LOOP</strong>
 </a>
 
