@@ -223,7 +223,7 @@ Busca presentar conceptos financieros básicos mediante una experiencia de estra
 
 <p align="center">
 
-<a href="./index.html">
+<a href="https://ivoismael.github.io/GameDevelopmentPortafolio/DefensaBolsilloCentral/">
   <strong>💰 JUGAR DEFENSA DEL BOLSILLO CENTRAL</strong>
 </a>
 
