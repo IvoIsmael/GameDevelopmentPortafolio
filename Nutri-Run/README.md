@@ -160,7 +160,7 @@ La estética colorida y la velocidad del juego están pensadas para mantener la 
 
 <p align="center">
 
-<a href="./index.html">
+<a href="https://ivoismael.github.io/GameDevelopmentPortafolio/Nutri-Run/">
   <strong>🥗 JUGAR NUTRI-RUN</strong>
 </a>
 
