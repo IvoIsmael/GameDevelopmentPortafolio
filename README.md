@@ -1,4 +1,7 @@
-# 🎮 Ivo Ismael Avendaño Ibañez
+<p align="center">
+  <img src="./Imagenes/banner1.jpg" alt="Banner del proyecto" width="100%">
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Game%20Development-🎮-blueviolet?style=for-the-badge" />
