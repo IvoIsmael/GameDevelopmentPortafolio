@@ -168,7 +168,7 @@ Su objetivo no es enseñar mediante estadísticas, sino mediante una **historia 
 
 <p align="center">
 
-<a href="./index.html">
+<a href="https://ivoismael.github.io/GameDevelopmentPortafolio/ElPesoDelSilencio/">
   <strong>📱 JUGAR EL PESO DEL SILENCIO</strong>
 </a>
 
