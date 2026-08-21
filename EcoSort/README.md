@@ -140,7 +140,7 @@ EcoSort utiliza una jugabilidad rápida y sencilla propia de los juegos arcade, 
 
 <p align="center">
 
-<a href="./index.html">
+<a href="https://ivoismael.github.io/GameDevelopmentPortafolio/EcoSort/">
   <strong>♻️ JUGAR ECOSORT</strong>
 </a>
 
