@@ -149,7 +149,7 @@ La energía se consume rápidamente, obligando al jugador a tomar decisiones con
 
 <p align="center">
 
-<a href="./index.html">
+<a href="https://ivoismael.github.io/GameDevelopmentPortafolio/Agualto/">
   <strong>💧 JUGAR AGUALTO</strong>
 </a>
 
