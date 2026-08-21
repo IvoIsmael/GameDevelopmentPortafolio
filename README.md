@@ -2,7 +2,6 @@
   <img src="./Imagenes/banner1.jpg" alt="Banner del proyecto" width="100%">
 </p>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/Game%20Development-🎮-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ingeniería%20en%20Sistemas-4to%20Semestre-blue?style=for-the-badge" />
@@ -14,7 +13,6 @@
 ## 👋 Sobre mí
 
 Hola :) Soy **Ivo Ismael Avendaño Ibañez**, tengo **19 años** y actualmente curso el **4to semestre de Ingeniería en Sistemas**.
-
 
 Para mí, un buen videojuego debe tener **alma**, una identidad propia y un trasfondo que haga que el jugador quiera descubrir más.
 
@@ -42,13 +40,13 @@ En la materia de **Game Development**, los proyectos que desarrollo suelen tener
 
 Algunos de los temas que he trabajado incluyen:
 
-| 🎮 Proyecto / Tema        | 🌎 Problemática                  |
-| ------------------------- | -------------------------------- |
-| 💬 Ciberbullying          | Acoso y violencia en Internet    |
-| 🌱 Contaminación          | Cuidado del medio ambiente       |
-| 🧩 Puzles educativos      | Aprendizaje mediante videojuegos |
-| 💧 Hidratación            | Importancia del cuidado personal |
-| 🥗 Alimentación saludable | Buenos hábitos alimenticios      |
+| 🎮 Proyecto / Tema | 🌎 Problemática |
+| :--- | :--- |
+| 💬 Ciberbullying | Acoso y violencia en Internet |
+| 🌱 Contaminación | Cuidado del medio ambiente |
+| 🧩 Puzles educativos | Aprendizaje mediante videojuegos |
+| 💧 Hidratación | Importancia del cuidado personal |
+| 🥗 Alimentación saludable | Buenos hábitos alimenticios |
 
 Mi objetivo es crear videojuegos que **diviertan, pero que también puedan dejar un mensaje en el jugador**.
 
@@ -93,8 +91,6 @@ Enfoque      : Videojuegos con propósito
 
 ---
 
----
-
 # 🎮 Mis videojuegos
 
 Durante la materia de **Game Development** desarrollé diferentes videojuegos, cada uno centrado en una problemática, concepto o experiencia diferente.
@@ -115,22 +111,26 @@ Los proyectos combinan **programación, diseño de mecánicas, narrativa y temá
 
 **Zombie-Loop** es un videojuego educativo 2D Pixel Art dirigido a niños que están entrando a la secundaria. El jugador controla a un zombie que avanza automáticamente por una mazmorra y debe enfrentarse a 10 monstruos resolviendo operaciones matemáticas.
 
-| 🎮 Género                        | 🛠️ Tecnología          |
-| :------------------------------- | :---------------------- |
+| 🎮 Género | 🛠️ Tecnología |
+| :--- | :--- |
 | Adventure · Puzzle · Educational | HTML · CSS · JavaScript |
 
 **🎯 Objetivo:** derrotar a los 10 enemigos respondiendo correctamente preguntas de suma, resta, multiplicación y división.
 
-<p align="center">
-
-<a href="./Zombie-Loop/">
-  <img src="https://img.shields.io/badge/📂%20Ver%20proyecto-5865F2?style=for-the-badge">
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/IvoIsmael/GameDevelopmentPortafolio/tree/main/Zombie-Loop">
+  <img src="https://img.shields.io/badge/📂%20Ver%20archivos-5865F2?style=for-the-badge" alt="Ver archivos">
 </a>
-<a href="./Zombie-Loop/index.html">
-  <img src="https://img.shields.io/badge/▶️%20Jugar-2ea44f?style=for-the-badge">
+</td>
+<td>
+<a href="https://ivoismael.github.io/GameDevelopmentPortafolio/Zombie-Loop/">
+  <img src="https://img.shields.io/badge/▶️%20Jugar-2ea44f?style=for-the-badge" alt="Jugar">
 </a>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -146,22 +146,26 @@ Los proyectos combinan **programación, diseño de mecánicas, narrativa y temá
 
 Los tres tipos de residuos son **orgánicos, papel/cartón y plásticos**.
 
-| 🎮 Género            | 🛠️ Tecnología          |
-| :------------------- | :---------------------- |
+| 🎮 Género | 🛠️ Tecnología |
+| :--- | :--- |
 | Arcade · Educational | HTML · CSS · JavaScript |
 
 **🎯 Objetivo:** conseguir la mayor puntuación posible clasificando correctamente los residuos y administrando las vidas disponibles.
 
-<p align="center">
-
-<a href="./EcoSort/">
-  <img src="https://img.shields.io/badge/📂%20Ver%20proyecto-5865F2?style=for-the-badge">
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/IvoIsmael/GameDevelopmentPortafolio/tree/main/EcoSort">
+  <img src="https://img.shields.io/badge/📂%20Ver%20archivos-5865F2?style=for-the-badge" alt="Ver archivos">
 </a>
-<a href="./EcoSort/index.html">
-  <img src="https://img.shields.io/badge/▶️%20Jugar-2ea44f?style=for-the-badge">
+</td>
+<td>
+<a href="https://ivoismael.github.io/GameDevelopmentPortafolio/EcoSort/">
+  <img src="https://img.shields.io/badge/▶️%20Jugar-2ea44f?style=for-the-badge" alt="Jugar">
 </a>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -177,22 +181,26 @@ Los tres tipos de residuos son **orgánicos, papel/cartón y plásticos**.
 
 El jugador debe recoger alimentos beneficiosos y agua mientras evita la comida ultraprocesada para mantener su energía.
 
-| 🎮 Género                             | 🛠️ Tecnología          |
-| :------------------------------------ | :---------------------- |
+| 🎮 Género | 🛠️ Tecnología |
+| :--- | :--- |
 | Arcade · Endless Runner · Educational | HTML · CSS · JavaScript |
 
 **🎯 Objetivo:** llegar al final del recorrido manteniendo suficiente energía y tomando decisiones saludables.
 
-<p align="center">
-
-<a href="./Nutri-Run/">
-  <img src="https://img.shields.io/badge/📂%20Ver%20proyecto-5865F2?style=for-the-badge">
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/IvoIsmael/GameDevelopmentPortafolio/tree/main/Nutri-Run">
+  <img src="https://img.shields.io/badge/📂%20Ver%20archivos-5865F2?style=for-the-badge" alt="Ver archivos">
 </a>
-<a href="./Nutri-Run/index.html">
-  <img src="https://img.shields.io/badge/▶️%20Jugar-2ea44f?style=for-the-badge">
+</td>
+<td>
+<a href="https://ivoismael.github.io/GameDevelopmentPortafolio/Nutri-Run/">
+  <img src="https://img.shields.io/badge/▶️%20Jugar-2ea44f?style=for-the-badge" alt="Jugar">
 </a>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -208,22 +216,26 @@ El jugador debe recoger alimentos beneficiosos y agua mientras evita la comida u
 
 El objetivo es alcanzar los **2.000 ml de agua** antes de que la energía llegue a cero.
 
-| 🎮 Género                     | 🛠️ Tecnología          |
-| :---------------------------- | :---------------------- |
+| 🎮 Género | 🛠️ Tecnología |
+| :--- | :--- |
 | Arcade · Roguelike · Survival | HTML · CSS · JavaScript |
 
 **🎯 Objetivo:** alcanzar los 2.000 ml de agua sin quedarse sin energía.
 
-<p align="center">
-
-<a href="./Agualto/">
-  <img src="https://img.shields.io/badge/📂%20Ver%20proyecto-5865F2?style=for-the-badge">
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/IvoIsmael/GameDevelopmentPortafolio/tree/main/Agualto">
+  <img src="https://img.shields.io/badge/📂%20Ver%20archivos-5865F2?style=for-the-badge" alt="Ver archivos">
 </a>
-<a href="./Agualto/index.html">
-  <img src="https://img.shields.io/badge/▶️%20Jugar-2ea44f?style=for-the-badge">
+</td>
+<td>
+<a href="https://ivoismael.github.io/GameDevelopmentPortafolio/Agualto/">
+  <img src="https://img.shields.io/badge/▶️%20Jugar-2ea44f?style=for-the-badge" alt="Jugar">
 </a>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -239,22 +251,26 @@ El objetivo es alcanzar los **2.000 ml de agua** antes de que la energía llegue
 
 El jugador acompaña a Gael mientras reconstruye lo ocurrido con su hermana mediante chats, publicaciones, historias y notas de voz fragmentadas.
 
-| 🎮 Género                      | 🛠️ Tecnología          |
-| :----------------------------- | :---------------------- |
+| 🎮 Género | 🛠️ Tecnología |
+| :--- | :--- |
 | Puzzle · Adventure · Narrative | HTML · CSS · JavaScript |
 
 **🎯 Objetivo:** resolver los puzles y reconstruir cronológicamente la historia hasta llegar al mensaje de reflexión final.
 
-<p align="center">
-
-<a href="./ElPesoDelSilencio/">
-  <img src="https://img.shields.io/badge/📂%20Ver%20proyecto-5865F2?style=for-the-badge">
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/IvoIsmael/GameDevelopmentPortafolio/tree/main/ElPesoDelSilencio">
+  <img src="https://img.shields.io/badge/📂%20Ver%20archivos-5865F2?style=for-the-badge" alt="Ver archivos">
 </a>
-<a href="./ElPesoDelSilencio/index.html">
-  <img src="https://img.shields.io/badge/▶️%20Jugar-2ea44f?style=for-the-badge">
+</td>
+<td>
+<a href="https://ivoismael.github.io/GameDevelopmentPortafolio/ElPesoDelSilencio/">
+  <img src="https://img.shields.io/badge/▶️%20Jugar-2ea44f?style=for-the-badge" alt="Jugar">
 </a>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -270,22 +286,26 @@ El jugador acompaña a Gael mientras reconstruye lo ocurrido con su hermana medi
 
 El jugador debe defender su dinero de enemigos como los **Gastos Hormiga, Compras por Impulso y Suscripciones Olvidadas**, utilizando torres de ahorro, inversión y planificación.
 
-| 🎮 Género                              | 🛠️ Tecnología          |
-| :------------------------------------- | :---------------------- |
+| 🎮 Género | 🛠️ Tecnología |
+| :--- | :--- |
 | Strategy · Tower Defense · Educational | HTML · CSS · JavaScript |
 
 **🎯 Objetivo:** resistir las oleadas de gastos y mantener protegido el capital del Bolsillo Central.
 
-<p align="center">
-
-<a href="./DefensaBolsilloCentral/">
-  <img src="https://img.shields.io/badge/📂%20Ver%20proyecto-5865F2?style=for-the-badge">
+<table align="center">
+<tr>
+<td>
+<a href="https://github.com/IvoIsmael/GameDevelopmentPortafolio/tree/main/DefensaBolsilloCentral">
+  <img src="https://img.shields.io/badge/📂%20Ver%20archivos-5865F2?style=for-the-badge" alt="Ver archivos">
 </a>
-<a href="./DefensaBolsilloCentral/index.html">
-  <img src="https://img.shields.io/badge/▶️%20Jugar-2ea44f?style=for-the-badge">
+</td>
+<td>
+<a href="https://ivoismael.github.io/GameDevelopmentPortafolio/DefensaBolsilloCentral/">
+  <img src="https://img.shields.io/badge/▶️%20Jugar-2ea44f?style=for-the-badge" alt="Jugar">
 </a>
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -293,21 +313,20 @@ El jugador debe defender su dinero de enemigos como los **Gastos Hormiga, Compra
 
 Los seis proyectos buscan utilizar el desarrollo de videojuegos como una forma de **entretenimiento, aprendizaje y reflexión**.
 
-|    #   | 🎮 Juego                            | 💡 Tema                       |
-| :----: | :---------------------------------- | :---------------------------- |
-| **01** | 🧟 **Zombie-Loop**                  | 🧮 Educación matemática       |
-| **02** | ♻️ **EcoSort**                      | 🌱 Cuidado del medio ambiente |
-| **03** | 🥗 **Nutri-Run**                    | 🍎 Alimentación saludable     |
-| **04** | 💧 **Agualto**                      | 💦 Hidratación                |
-| **05** | 📱 **El peso del silencio**         | 💬 Ciberbullying              |
-| **06** | 💰 **Defensa del Bolsillo Central** | 📊 Educación financiera       |
+| # | 🎮 Juego | 💡 Tema |
+| :---: | :--- | :--- |
+| **01** | 🧟 **Zombie-Loop** | 🧮 Educación matemática |
+| **02** | ♻️ **EcoSort** | 🌱 Cuidado del medio ambiente |
+| **03** | 🥗 **Nutri-Run** | 🍎 Alimentación saludable |
+| **04** | 💧 **Agualto** | 💦 Hidratación |
+| **05** | 📱 **El peso del silencio** | 💬 Ciberbullying |
+| **06** | 💰 **Defensa del Bolsillo Central** | 📊 Educación financiera |
 
 > 🎮 **6 juegos · 6 problemáticas · 6 formas diferentes de aprender**
 
 Mi objetivo al desarrollar videojuegos es que cada proyecto tenga **alma, identidad y un propósito**, utilizando las mecánicas y la interacción para transmitir ideas que puedan relacionarse con problemas reales de la sociedad.
 
 ---
-
 
 <p align="center">
 
